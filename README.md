@@ -36,7 +36,7 @@ termux-setup-storage
 cd /sdcard/Download && git clone https://github.com/TED-BOT-OFC/TED-BOT-V5 && cd /sdcard/Download/TED-BOT-V5
 ```
 
-### 5. Ligar o Bot
+### 4. Ligar o Bot
 ```bash
 npm start
 ```
